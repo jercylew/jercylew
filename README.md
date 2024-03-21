@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yuming Liu (@jercylew)
-- 👀 I’m interested in IoT, AI and Robotics
-- 🌱 I’m currently learning ML & DL, with tensorflow
-- 💞️ I’m looking to collaborate on ML & DL development
+- 👀 I’m interested in IoT, AI, Robotics, Blockchain and Web3
+- 🌱 I’m currently learning ML, DL(with tensorflow) and Web3
+- 💞️ I’m looking to collaborate on AI & Web3
 - 📫 How to reach me @jercylew on Github, and linkedin https://www.linkedin.com/in/jercylew/
 
 <!---
